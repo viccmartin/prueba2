@@ -10,7 +10,7 @@ Class {
 
 { #category : 'mensaje' }
 Jugador >> decirHola [
-	^ 'Hola, soy ', nombre
+	^ 'Hola soy un nuevo jugador, soy ', nombre
 
 ]
 
